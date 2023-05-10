@@ -1,0 +1,83 @@
+raw_top 872
+raw_top 756
+raw_top 640
+raw_top 525
+raw_top 408
+raw_top 292
+bridge 1 872 15
+bridge 16 869 3
+bridge 19 866 3
+bridge 22 863 3
+bridge 25 860 3
+bridge 28 857 3
+bridge 25 756 3
+bridge 22 753 3
+bridge 19 750 3
+bridge 16 747 3
+bridge 13 744 3
+bridge 10 741 3
+bridge 7 738 3
+bridge 4 735 3
+bridge 2 732 2
+bridge 4 640 3
+bridge 7 637 3
+bridge 10 634 3
+bridge 13 631 3
+bridge 16 628 3
+bridge 19 625 3
+bridge 22 622 3
+bridge 25 619 3
+bridge 28 616 2
+bridge 25 525 3
+bridge 22 522 3
+bridge 19 519 3
+bridge 16 516 3
+bridge 13 513 3
+bridge 10 510 3
+bridge 7 507 3
+bridge 4 504 3
+bridge 2 501 2
+bridge 4 408 3
+bridge 7 405 3
+bridge 10 402 3
+bridge 13 399 3
+bridge 16 396 3
+bridge 19 393 3
+bridge 22 390 3
+bridge 25 387 3
+bridge 28 384 3
+bridge 25 292 3
+bridge 22 289 3
+bridge 19 286 3
+bridge 2 280 14
+bridge 13 280 6
+bridge 10 210 3
+bridge 13 200 5
+ladder 420 834 2
+ladder 875 789 4
+ladder 210 673 3
+ladder 490 664 4
+ladder 350 542 1
+ladder 350 596 2
+ladder 560 542 5
+ladder 875 551 4
+ladder 210 441 3
+ladder 385 432 4
+ladder 805 420 1
+ladder 805 480 2
+ladder 875 319 4
+ladder 455 307 2
+ladder 455 367 2
+ladder 630 211 4
+ladder 420 241 2
+ladder 350 241 2
+ladder 420 -5 13
+ladder 350 -5 13
+
+hammer 4 317
+hammer 4 756
+target 350 200 100 40
+
+
+
+

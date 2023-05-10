@@ -1,0 +1,7 @@
+Saving high scores to file...
+Player: Player1, Score: 100
+Player: Player2, Score: 80
+Player: Player3, Score: 120
+Player: ggg, Score: 0
+Player: F, Score: 0
+Player: Dan, Score: 100

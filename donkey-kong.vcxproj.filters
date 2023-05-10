@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{9aa319d9-e587-4431-80cd-96c9ff91a8cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{a78a54cd-9a6e-4c49-9a06-271f8e30d875}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="imgui">
+      <UniqueIdentifier>{98528999-370f-4eae-8770-c10e03253079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\game_objects">
+      <UniqueIdentifier>{61735110-6cba-414a-9248-b6fbe1a7b4de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils">
+      <UniqueIdentifier>{ed13cf41-a834-4c8b-b870-c325dc35cf87}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\game.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui_demo.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui_draw.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui_impl_sdl2.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui_impl_sdlrenderer2.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui_tables.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui_widgets.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="src\barrel.cpp">
+      <Filter>src\game_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="src\bridge.cpp">
+      <Filter>src\game_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="src\hammer.cpp">
+      <Filter>src\game_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ladder.cpp">
+      <Filter>src\game_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="src\level.cpp">
+      <Filter>src\game_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="src\player.cpp">
+      <Filter>src\game_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="src\image_loader.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game_window.cpp">
+      <Filter>src\game_objects</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\barrel.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\bridge.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\game.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\hammer.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ladder.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\level.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\player.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\image_loader.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\game_object.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\game_window.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
